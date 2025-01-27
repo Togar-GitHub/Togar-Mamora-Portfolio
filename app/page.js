@@ -53,7 +53,7 @@ export default function Home() {
         <div className="w-[450px] flex mr-8">
           {/* Objective Section in a new container with a different background */}
           <div className="mt-8 p-6 bg-purple-200 rounded-lg">
-            <h2 className="text-4xl font-semibold mb-4 text-blue-700">About me</h2>
+            <h2 className="text-4xl font-semibold mb-4 text-blue-700 text-left">About me</h2>
             <p className="text-2xl mb-2 text-blue-900">
               Aspiring Software Engineer with foundational knowledge in full-stack development, recently completing a Diploma in Software Engineering from App Academy. 
             </p>
