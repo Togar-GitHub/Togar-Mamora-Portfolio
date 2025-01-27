@@ -22,6 +22,12 @@ export default function Home() {
           >
             View Resume
           </a>
+          {/* <iframe
+          src="/awrightresume.pdf"
+          className="w-full h-96 mb-4"
+          title="Resume"
+        ></iframe>
+        <a href="/aw */}
         </h3>
         <h3 className="text-2xl font-bold mb-2">LinkedIn: 
           <a href="https://www.linkedin.com/in/togar-mamora-550358b7/" 
@@ -47,7 +53,7 @@ export default function Home() {
         <div className="w-[450px] flex mr-8">
           {/* Objective Section in a new container with a different background */}
           <div className="mt-8 p-6 bg-purple-200 rounded-lg">
-            <h2 className="text-4xl font-semibold mb-4 text-blue-700 text-center">Objective</h2>
+            <h2 className="text-4xl font-semibold mb-4 text-blue-700 text-center">About me</h2>
             <p className="text-2xl mb-2 text-blue-900">
               Aspiring Software Engineer with foundational knowledge in full-stack development, recently completing a Diploma in Software Engineering from App Academy. 
             </p>
