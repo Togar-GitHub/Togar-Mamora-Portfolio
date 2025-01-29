@@ -15,7 +15,7 @@ export default function Home() {
         </h3>
         <h3 className="text-2xl font-bold mb-2">Resume: 
           <a 
-            href="https://docs.google.com/document/d/1Ziw3AofBsejei9QML-9qElk6zEiVHmEH/edit?usp=drive_link&ouid=109914845379523616582&rtpof=true&sd=true" 
+            href="https://docs.google.com/document/d/1fQmB_VQ7lmRq73JOatSZsEH_-AVqdUBf/edit?usp=sharing&ouid=109914845379523616582&rtpof=true&sd=true" 
             className="text-white bg-blue-500 font-semibold text-base py-1 px-3 rounded-lg ml-2 hover:bg-blue-300 transition-all"
             target="_blank" 
             rel="noopener noreferrer"
