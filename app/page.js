@@ -137,7 +137,9 @@ export default function Home() {
             <div className="flex items-center gap-4">
               {/* Left Image */}
               <div className="w-[200px]">
-                <img src="./graceclinic.jpg" alt="Grace Clinic" className="w-full h-auto rounded-lg"/>
+                <a href="https://grace-clinic.onrender.com/">
+                  <img src="./graceclinic.jpg" alt="Grace Clinic" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
 
               {/* Description */}
@@ -153,7 +155,9 @@ export default function Home() {
 
               {/* Right Image */}
               <div className="w-[400px]">
-                <img src="./gracecliniclandingpage.jpg" alt="Grace Clinic Landing Page" className="w-full h-auto rounded-lg"/>
+                <a href="https://grace-clinic.onrender.com/">
+                  <img src="./gracecliniclandingpage.jpg" alt="Grace Clinic Landing Page" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
             </div>
           </div>
@@ -163,7 +167,9 @@ export default function Home() {
             <div className="flex items-center gap-4">
               {/* Left Image */}
               <div className="w-[100px]">
-                <img src="./lovelypaws.jpg" alt="Lovely Paws" className="w-full h-auto rounded-lg"/>
+                <a href="https://lovely-paws-hotel-vwq9.onrender.com/">
+                  <img src="./lovelypaws.jpg" alt="Lovely Paws" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
 
               {/* Description */}
@@ -179,7 +185,9 @@ export default function Home() {
 
               {/* Right Image */}
               <div className="w-[200px]">
-                <img src="./lovelypawslandingpage.jpg" alt="Lovely Paws Landing Page" className="w-full h-auto rounded-lg"/>
+                <a href="https://lovely-paws-hotel-vwq9.onrender.com/">
+                  <img src="./lovelypawslandingpage.jpg" alt="Lovely Paws Landing Page" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
             </div>
           </div>
@@ -189,7 +197,9 @@ export default function Home() {
             <div className="flex items-center gap-4">
               {/* Left Image */}
               <div className="w-[100px]">
-                <img src="./peacefulstay.jpg" alt="Peaceful Stay" className="w-full h-auto rounded-lg"/>
+                <a href="https://peaceful-stay-l7ue.onrender.com/">
+                  <img src="./peacefulstay.jpg" alt="Peaceful Stay" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
 
               {/* Description */}
@@ -205,7 +215,9 @@ export default function Home() {
 
               {/* Right Image */}
               <div className="w-[200px]">
-                <img src="./peacefulstaylandingpage.jpg" alt="Peaceful Stay Landing Page" className="w-full h-auto rounded-lg"/>
+                <a href="https://peaceful-stay-l7ue.onrender.com/">
+                  <img src="./peacefulstaylandingpage.jpg" alt="Peaceful Stay Landing Page" className="w-full h-auto rounded-lg"/>
+                </a>
               </div>
             </div>
           </div>
